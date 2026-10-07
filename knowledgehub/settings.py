@@ -43,6 +43,7 @@ INSTALLED_APPS = [
 
     "accounts_app",
     "main_app",
+    "cheatsheet_app",
 ]
 
 MIDDLEWARE = [
